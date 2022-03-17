@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("hello git");
         System.out.println("change");
         System.out.println("for push");
+        System.out.println("freshed on github");
     }
 }
